@@ -1,4 +1,4 @@
-#MoreFunGames
+MoreFunGames
 
 This project is a rendition of a simple Tic-Tac-Toe Game. The logic engine used is minimax. More infomration can be found online. All sources used will be listed below.
 
